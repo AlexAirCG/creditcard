@@ -224,5 +224,10 @@ input:not(:last-child) {
 
 .date-cvv {
   display: flex;
+  gap: 20px;
   justify-content: space-between;
+}
+
+.validity {
+  min-width: 145px;
 }
